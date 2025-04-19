@@ -1,2 +1,2 @@
 # mq-tester
-MQ Tester for IBM MQ, Artemis MQ, Kafka
+MQ Tester for IBM MQ, Active MQ Artemis, Kafka
